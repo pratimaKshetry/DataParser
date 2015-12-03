@@ -1,5 +1,7 @@
 # DataParser
 
+Original Author: Pratima Kshetry Student at: University of Maryland, College Park Technologies Used: Hadoop, MapReduce, Java
+
 This code is written in Java and is meant to parse any kind of data. However, as for this code, the data format available was: 
 
 Id:   1
